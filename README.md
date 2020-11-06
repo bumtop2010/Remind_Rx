@@ -1,5 +1,5 @@
 # Remind_Rx
-This app is designed to remind patients to take their medications and other treatments (e.g. breathing treatment in asthma and COPD patients)
+This app is designed to remind patients to take their medications and other treatments (e.g. breathing treatment in asthma and COPD patients). It will also contain a feature that notifies patients when they are low on their prescription.
 
 # Installation
 

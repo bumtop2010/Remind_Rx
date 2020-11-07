@@ -11,4 +11,4 @@ One of the feautures in Remind_Rx will notify patients of prescription refill a 
 Additionally, the app can help keep track of the beginning of seasonal allergies and give patients pointers on how to manage their allergies using over the counter medicine or their already prescribed therapies.  
 
 # Credits
-Titi Adedeji and Temitope Balogun, Fall 2020
+Titi Adedeji and Temitope Balogun, Fall 2020 
